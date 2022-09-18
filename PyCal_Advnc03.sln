@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyCal_Advnc03", "PyCal_Advnc03\PyCal_Advnc03.pyproj", "{B25FEA62-4BA4-450D-AE15-5BE59ECEA652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B25FEA62-4BA4-450D-AE15-5BE59ECEA652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25FEA62-4BA4-450D-AE15-5BE59ECEA652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {308B31DB-DA8B-4E3B-91FC-D46DCD22ABF9}
+	EndGlobalSection
+EndGlobal
